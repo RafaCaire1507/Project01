@@ -1,0 +1,107 @@
+{
+    "Comedia" : [
+        {
+        "nome": "Gente Grande",
+        "data_lan": 2010,
+        "imagem": "gg"
+      },
+      {
+        "nome": "As Branquelas",
+        "data_lan": 2004,
+        "imagem": "ab"
+      },
+      {
+        "nome": "Anjos da Lei",
+        "data_lan": 2012,
+        "imagem": "al"
+      },
+      {
+        "nome": "Super Herói, o Filme",
+        "data_lan": 2008,
+        "imagem": "shf"
+      },
+      {
+        "nome": "Se Beber, Não Case",
+        "data_lan": 2009,
+        "imagem": "sbc"
+      },
+      {
+        "nome": "Superbad - É Hoje",
+        "data_lan": 2007,
+        "imagem": "sh"
+      },
+      {
+        "nome": "Borat ",
+        "data_lan": 2006,
+        "imagem": "bo"
+      },
+      {
+        "nome": "Feitiço do Tempo",
+        "data_lan": 1993,
+        "imagem": "ft"
+      },
+      {
+        "nome": "Apertem os Cintos, O Piloto Sumiu",
+        "data_lan": 1980,
+        "imagem": "acp"
+      },
+      {
+        "nome": "O Auto da Compadecida",
+        "data_lan": 2000,
+        "imagem": "ac"
+      }
+    ],
+
+    "Romance" : [
+        {
+            "nome": "Cartas para Julieta",
+            "data_lan": 2010,
+            "imagem": "cj"
+          },
+          {
+            "nome": "Ghost - Do Outro Lado da Vida",
+            "data_lan": 1990,
+            "imagem": "abs"
+          },
+          {
+            "nome": "O Guarda-Costas ",
+            "data_lan": 1992,
+            "imagem": "al"
+          },
+          {
+            "nome": "Titanic",
+            "data_lan": 1997,
+            "imagem": "shf"
+          },
+          {
+            "nome": "P.S. Eu Te Amo",
+            "data_lan": 2008,
+            "imagem": "sbc"
+          },
+          {
+            "nome": "A Culpa é Das Estrelas",
+            "data_lan": 2014,
+            "imagem": "sh"
+          },
+          {
+            "nome": "Como Eu Era Antes de Você",
+            "data_lan": 2016,
+            "imagem": "bo"
+          },
+          {
+            "nome": "Casablanca",
+            "data_lan": 1942,
+            "imagem": "ft"
+          },
+          {
+            "nome": "Brilho Eterno de uma Mente sem Lembranças",
+            "data_lan": 2004,
+            "imagem": "acp"
+          },
+          {
+            "nome": "Diário de uma Paixão",
+            "data_lan": 2004,
+            "imagem": "ac"
+          }
+    ]
+}
