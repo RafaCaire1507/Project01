@@ -104,4 +104,57 @@
             "imagem": "ac"
           }
     ]
+
+     "Ação" : [
+        {
+            "nome": "Matrix",
+            "data_lan": 1999,
+            "imagem": "mt"
+          },
+          {
+            "nome": "A Identidade Bourne",
+            "data_lan": 2002,
+            "imagem": "aid"
+          },
+          {
+            "nome": "O Guarda-Costas ",
+            "data_lan": 1992,
+            "imagem": "al"
+          },
+          {
+            "nome": "Kill Bill Vol. I",
+            "data_lan": 2003,
+            "imagem": "kbv"
+          },
+          {
+            "nome": "Mad Max",
+            "data_lan": 2015,
+            "imagem": "mdm"
+          },
+          {
+            "nome": "A Origem",
+            "data_lan": 2010,
+            "imagem": "ao"
+          },
+          {
+            "nome": "007 Contra Goldfinger",
+            "data_lan": 1964,
+            "imagem": "7cg"
+          },
+          {
+            "nome": "O Exterminador do Futuro",
+            "data_lan": 1984,
+            "imagem": "oxf"
+          },
+          {
+            "nome": "Os Sete Samurais",
+            "data_lan": 1954,
+            "imagem": "oss"
+          },
+          {
+            "nome": "Um Condenado à Morte Escapou",
+            "data_lan": 1956,
+            "imagem": "ucme"
+          }
+    ]
 }
